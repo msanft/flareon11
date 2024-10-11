@@ -17,6 +17,9 @@ module f_sched (
 		64'hdb7ec13950f4862a,
 		64'h6fe9b308c2d714a5,
 		64'ha2847615fb9e3cd0,
+
+		// NON-Standard below
+
 		// Repeat the first two.
 		64'h0123456789abcdef,
 		64'hea489fd61c02b753,
@@ -45,4 +48,3 @@ module f_sched (
 	assign m1_sel = s_batch[((7-sub_ctr) * 8) + 0 +: 4];
 
 endmodule
-

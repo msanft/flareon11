@@ -48,7 +48,7 @@ module f_sched_tb;
 	endtask
 
 	initial begin
-		//$monitor("%h %h %h %h %h %h %h", sub_ctr, a_sel, b_sel, c_sel, d_sel, m0_sel, m1_sel);
+		$monitor("%h %h %h %h %h %h %h", sub_ctr, a_sel, b_sel, c_sel, d_sel, m0_sel, m1_sel);
 
 		// Check a few spot values covering different round/sub indices.
 		check_val(0, 0, 4'h0, 4'h4, 4'h8, 4'hc, 4'h0, 4'h1);

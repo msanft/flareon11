@@ -44,7 +44,7 @@ module bloke2b_tb;
 	reg [511:0] message;
 	always @(posedge clk) begin
 		// Very noisy diagnostic, but useful
-		//$display("%t tb dv %b de %b m %h", $time, dout_valid, dout_end, message);
+		//  $display("%t tb dv %b de %b m %h", $time, dout_valid, dout_end, message);
 
 		// If we're starting, clear the message contents.
 		if (start) message = "";
@@ -54,7 +54,7 @@ module bloke2b_tb;
 
 		// If the data finished, display what we received.  It's a hash, so it's
 		// probably garbage, but you never know...
-		if (dout_end) $display("Received message: %s", message);
+		if (dout_end) $display("Received message: %s (%h)", message, message);
 	end
 
 	// Run a string through the hash machine.

@@ -54,7 +54,7 @@ module bloke2s_tb;
 
 		// If the data finished, display what we received.  It's a hash, so it's
 		// probably garbage, but you never know...
-		if (dout_end) $display("Received message: %s", message);
+		if (dout_end) $display("Received message: %s (%h)", message, message);
 	end
 
 	// Run a string through the hash machine.
