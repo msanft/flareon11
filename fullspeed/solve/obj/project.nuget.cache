@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHlGuybSKUIrEmsE5Ge0WIxUdS19coHnRBVoF214JvJZiJnIyJXvqRTBmEOik7WxNgzS6/b8U8z5mj5K4uuo5Q==",
+  "success": true,
+  "projectFilePath": "/home/msanft/dev/ctf/flareon11/fullspeed/solve/fullspeed.csproj",
+  "expectedPackageFiles": [
+    "/home/msanft/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
