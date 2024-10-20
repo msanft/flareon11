@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/msanft/dev/ctf/flareon11/fullspeed/solve/fullspeed.csproj": {}
+    "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj": {}
   },
   "projects": {
-    "/home/msanft/dev/ctf/flareon11/fullspeed/solve/fullspeed.csproj": {
+    "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/msanft/dev/ctf/flareon11/fullspeed/solve/fullspeed.csproj",
+        "projectUniqueName": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj",
         "projectName": "fullspeed",
-        "projectPath": "/home/msanft/dev/ctf/flareon11/fullspeed/solve/fullspeed.csproj",
-        "packagesPath": "/home/msanft/.nuget/packages/",
-        "outputPath": "/home/msanft/dev/ctf/flareon11/fullspeed/solve/obj/",
+        "projectPath": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj",
+        "packagesPath": "C:\\Users\\Moritz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/msanft/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Moritz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/mxz3mrzmyrpa0k5wkniz0hpz9vvps1ya-dotnet-sdk-8.0.110/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

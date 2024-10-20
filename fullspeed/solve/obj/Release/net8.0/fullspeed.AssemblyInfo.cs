@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fullspeed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84339a24f17e5d65369f5091d19ddfc1e9851914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060b943fe50c0b8717d49d1f0a56ec08a3cc76ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("fullspeed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fullspeed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

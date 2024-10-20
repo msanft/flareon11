@@ -1,0 +1,6 @@
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\fullspeed.exe
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\fullspeed.dll
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\fullspeed.deps.json
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\fullspeed.runtimeconfig.json
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\fullspeed.pdb
+C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\bin\Release\net8.0\publish\BouncyCastle.Crypto.dll

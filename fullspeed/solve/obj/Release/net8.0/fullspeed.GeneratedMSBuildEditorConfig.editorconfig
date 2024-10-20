@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = fullspeed
-build_property.ProjectDir = /home/msanft/dev/ctf/flareon11/fullspeed/solve/
+build_property.ProjectDir = C:\Users\Moritz\Downloads\FedoraRawhideWSL2\flareon11\fullspeed\solve\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
