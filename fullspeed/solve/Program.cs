@@ -37,8 +37,9 @@ class Program
 
         Byte[] sharedXBytes = sharedX.ToByteArray();
 
-        String sharedXHex = Convert.ToHexString(sharedXBytes);
-        Console.WriteLine($"Shared X: {sharedXHex}");
+        Byte[] sha512Digest = System.Security.Cryptography.SHA512.Create().ComputeHash(sharedXBytes);
+
+        Console.WriteLine($"Shared X: {Convert.ToHexString(sha512Digest)}");
 
         return;
     }
