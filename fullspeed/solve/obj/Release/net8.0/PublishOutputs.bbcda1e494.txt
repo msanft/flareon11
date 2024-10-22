@@ -1,0 +1,6 @@
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/fullspeed
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/fullspeed.dll
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/fullspeed.deps.json
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/fullspeed.runtimeconfig.json
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/fullspeed.pdb
+/home/msanft/dev/flareon11/fullspeed/solve/bin/Release/net8.0/publish/BouncyCastle.Crypto.dll

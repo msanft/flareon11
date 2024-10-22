@@ -40,19 +40,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Moritz\\.nuget\\packages\\": {}
+    "/home/msanft/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj",
+      "projectUniqueName": "/home/msanft/dev/flareon11/fullspeed/solve/fullspeed.csproj",
       "projectName": "fullspeed",
-      "projectPath": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\fullspeed.csproj",
-      "packagesPath": "C:\\Users\\Moritz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moritz\\Downloads\\FedoraRawhideWSL2\\flareon11\\fullspeed\\solve\\obj\\",
+      "projectPath": "/home/msanft/dev/flareon11/fullspeed/solve/fullspeed.csproj",
+      "packagesPath": "/home/msanft/.nuget/packages/",
+      "outputPath": "/home/msanft/dev/flareon11/fullspeed/solve/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Moritz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/msanft/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -102,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/1ymswabxzafmc7pchimnlq3ihhjm9smx-dotnet-sdk-8.0.403/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
